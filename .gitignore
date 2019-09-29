@@ -1,0 +1,7 @@
+*.csv
+.vscode/
+__pycache__/
+data/
+testdata/
+*.gsheet
+*.gform
